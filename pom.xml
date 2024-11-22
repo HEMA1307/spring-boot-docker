@@ -48,8 +48,9 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-			<finalName>spring-boot-docker-with-jenkins</finalName>
-		</plugins>
+				</plugins>
+					<finalName>spring-boot-docker-with-jenkins</finalName>
+
 	</build>
 
 </project>
