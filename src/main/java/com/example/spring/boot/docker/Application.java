@@ -10,7 +10,7 @@ public class Application {
 	@GetMapping("/displayMessage")
 	public String displayMessage() {
 		//System.out.println("Successfully dockerzised");
-		return "Done..Successfully dockerzised...";
+		return "Done..Successfully dockerzised..";
 		
 	}
 
